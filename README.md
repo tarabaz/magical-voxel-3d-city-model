@@ -12,7 +12,8 @@ Models included:
 * 2 types of buildings
 * 3 types of shops
  
- Models are all the same size usable in isometric and non-isometric tiles, they have already been tested in a prototype engine for positioning.
- 
 ![Provini](/Demo-Image/Provini.jpg)
 
+ Models are all the same size usable in isometric and non-isometric tiles, they have already been tested in a prototype engine for positioning.
+
+![Test](/Demo-Image/test.jpg)
